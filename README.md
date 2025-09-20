@@ -4,7 +4,7 @@ A Minecraft Forge mod for 1.8.9 that removes particles near the player to reduce
 
 ## Configuration
 
-- `shieldSize`: Minimum distance between player and particles (default: 1.5)
+- `shieldSize`: Minimum distance between player and particles (default: 1.4)
 - `isShieldActive`: Enable/disable the shield (default: true)
 
 Config file: `config/particleshield.cfg`
