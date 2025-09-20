@@ -1,0 +1,16 @@
+[
+{
+  "modid": "particleshield",
+  "name": "Particle Shield",
+  "description": "For Wizards.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["wvv"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
