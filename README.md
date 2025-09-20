@@ -8,7 +8,7 @@ Removes particles within a configurable distance from the player to reduce visua
 
 ## Configuration
 
-- `shieldSize`: Minimum distance between player and particles (default: 5)
+- `shieldSize`: Minimum distance between player and particles (default: 1.5)
 - `isShieldActive`: Enable/disable the shield (default: true)
 
 Config file: `config/particleshield.cfg`
@@ -17,7 +17,6 @@ Config file: `config/particleshield.cfg`
 
 - `/shieldsize <size>` - Set the particle shield size (minimum distance from player)
 - `/shieldtoggle` - Toggle the particle shield on/off
-- `/shieldstatus` - Show current particle shield settings
 
 ## Hotkey
 

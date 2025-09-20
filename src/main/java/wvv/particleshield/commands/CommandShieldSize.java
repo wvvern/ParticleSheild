@@ -27,7 +27,7 @@ public class CommandShieldSize extends CommandBase {
         }
 
         try {
-            int newSize = Integer.parseInt(args[0]);
+            double newSize = Double.parseDouble(args[0]);
             if (newSize < 0) {
                 newSize = 0;
             }

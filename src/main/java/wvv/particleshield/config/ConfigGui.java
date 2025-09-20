@@ -45,7 +45,7 @@ public class ConfigGui extends GuiScreen {
         } else if (button.id == 2) { // Done button
             // Save shield size from text field
             try {
-                int newSize = Integer.parseInt(this.shieldSizeField.getText());
+                double newSize = Double.parseDouble(this.shieldSizeField.getText());
                 if (newSize >= 0) {
                     ConfigHandler.shieldSize = newSize;
                 }
