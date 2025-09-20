@@ -1,10 +1,6 @@
 # Particle Shield
 
-A Minecraft Forge mod for 1.8.9 that creates a particle shield around the player.
-
-## What it does
-
-Removes particles within a configurable distance from the player to reduce visual clutter.
+A Minecraft Forge mod for 1.8.9 that removes particles near the player to reduce visual clutter.
 
 ## Configuration
 
