@@ -13,6 +13,12 @@ Removes particles within a configurable distance from the player to reduce visua
 
 Config file: `config/particleshield.cfg`
 
+## Commands
+
+- `/shieldsize <size>` - Set the particle shield size (minimum distance from player)
+- `/shieldtoggle` - Toggle the particle shield on/off
+- `/shieldstatus` - Show current particle shield settings
+
 ## Hotkey
 
-Press **J** to toggle the particle shield on/off.
+Press **J** to open the mod config.
